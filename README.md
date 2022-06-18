@@ -9,7 +9,7 @@
 4. Server=Adjust to your local server  
 5. Build solution then Run Project or (press F5)
 6. Access Menu Chart Diagram 
-7. Question No. 8 is ready for test
+7. Question No. 8 is ready to test
 
 Thank you.
 
