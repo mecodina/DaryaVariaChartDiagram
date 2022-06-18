@@ -8,7 +8,7 @@
 3. Change ConnectionString in appsettings.json file  
 4. Server=Adjust to your local server  
 5. Build solution then Run Project or (press F5)
-6. Access Menu Chart Diagram 
+6. Access Menu Dynamic Chart Diagram 
 7. Question No. 8 is ready to test
 
 Thank you.
